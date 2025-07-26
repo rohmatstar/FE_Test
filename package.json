@@ -1,0 +1,57 @@
+{
+  "name": "mint",
+  "description": "MINT - Monitoring Income and Traffic",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/icons-material": "^7.2.0",
+    "@mui/material": "^7.2.0",
+    "alchevera": "^2.4.0",
+    "animate.css": "^4.1.1",
+    "axios": "^1.11.0",
+    "firebase": "^12.0.0",
+    "firebase-admin": "^13.4.0",
+    "jwt-decode": "^4.0.0",
+    "lodash": "^4.17.21",
+    "node-fetch": "^3.3.2",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^7.7.1",
+    "react-scripts": "^5.0.1",
+    "sweetalert2": "^11.22.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/github": "^11.0.3",
+    "@semantic-release/npm": "^12.0.2",
+    "auxy": "^1.2.7",
+    "dechipera": "^1.2.1",
+    "eslint-import-resolver-alias": "^1.1.2",
+    "eslint-plugin-import": "^2.32.0",
+    "semantic-release": "^24.2.7"
+  }
+}

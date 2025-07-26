@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/rohmatstar/FE_Test/compare/v1.0.0...v1.1.0) (2025-07-26)
+
+
+### Features
+
+* add login feature ([af9922d](https://github.com/rohmatstar/FE_Test/commit/af9922d0cf3dab22f3bd03ddc1c21eb159722d59))
+
 # 1.0.0 (2025-07-26)
 
 

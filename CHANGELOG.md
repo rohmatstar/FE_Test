@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/rohmatstar/FE_Test/compare/v1.1.0...v1.2.0) (2025-07-26)
+
+
+### Features
+
+* add dashboard with basic feature ([380ed22](https://github.com/rohmatstar/FE_Test/commit/380ed228fa6c9b88fbb71f2abc5ea357cfb8a275))
+
 # [1.1.0](https://github.com/rohmatstar/FE_Test/compare/v1.0.0...v1.1.0) (2025-07-26)
 
 

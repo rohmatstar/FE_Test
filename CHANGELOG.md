@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/rohmatstar/FE_Test/compare/v1.3.0...v1.4.0) (2025-07-27)
+
+
+### Features
+
+* daily traffic feature (with dummy data) ([03bbb26](https://github.com/rohmatstar/FE_Test/commit/03bbb26d460fc4d6d9b6e969029c499821d70598))
+
 # [1.3.0](https://github.com/rohmatstar/FE_Test/compare/v1.2.0...v1.3.0) (2025-07-27)
 
 

@@ -9,7 +9,6 @@ import IconButton from "@mui/material/IconButton";
 import ChevronLeftIcon from "@mui/icons-material/ChevronLeft";
 import ChevronRightIcon from "@mui/icons-material/ChevronRight";
 import {
-  Avatar,
   Button,
   Dialog,
   DialogActions,
@@ -21,7 +20,7 @@ import {
 } from "@mui/material";
 import DrawerContents, { menuItems } from "../Metadata/DrawerContents";
 import DashboardResume from "./Dashbord/DashboardResume";
-import { AccountCircle } from "@mui/icons-material";
+import { AccountCircleOutlined, TuneOutlined } from "@mui/icons-material";
 import { useNavigate } from "react-router-dom";
 import Swal from "sweetalert2";
 
@@ -164,11 +163,13 @@ const DrawerComponent = ({
             </Typography>
           </Box>
 
-          <Box>
-            <IconButton onClick={handleClick}>
-              <Avatar>
-                <AccountCircle />
-              </Avatar>
+          <Box color={"white"}>
+            <IconButton color="inherit" onClick={handleClick}>
+              <AccountCircleOutlined />
+            </IconButton>
+
+            <IconButton color="inherit">
+              <TuneOutlined />
             </IconButton>
 
             <Dialog

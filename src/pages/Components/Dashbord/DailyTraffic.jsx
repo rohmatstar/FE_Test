@@ -7,7 +7,6 @@ import {
   Menu,
   MenuItem,
   Paper,
-  Stack,
   Tab,
   Table,
   TableBody,
@@ -325,14 +324,6 @@ const DailyTraffic = () => {
     });
     doc.save("[MINT] Laporan Lalu Lintas Per Hari.pdf");
     setAnchorEl(null);
-  };
-
-  const totalPage = 100;
-  const [currentPage, setCurrentPage] = useState(1);
-
-  const handleClick = (page) => {
-    setCurrentPage(page);
-    console.log("Clicked page:", page);
   };
 
   const handleApplyFilter = () => {

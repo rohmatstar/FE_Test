@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/rohmatstar/FE_Test/compare/v1.4.0...v1.5.0) (2025-07-27)
+
+
+### Features
+
+* add daily traffic and gate master data ([4e028f2](https://github.com/rohmatstar/FE_Test/commit/4e028f23eddf587860c2e73c8dcf3b2e9c30b6b8))
+
 # [1.4.0](https://github.com/rohmatstar/FE_Test/compare/v1.3.0...v1.4.0) (2025-07-27)
 
 

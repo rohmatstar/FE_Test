@@ -1,3 +1,10 @@
+## [1.5.3](https://github.com/rohmatstar/FE_Test/compare/v1.5.2...v1.5.3) (2025-07-28)
+
+
+### Bug Fixes
+
+* update readme to be more fancy ([3fc8afa](https://github.com/rohmatstar/FE_Test/commit/3fc8afac337a745c4c3baf2e73f7540f50b4e5ba))
+
 ## [1.5.2](https://github.com/rohmatstar/FE_Test/compare/v1.5.1...v1.5.2) (2025-07-28)
 
 

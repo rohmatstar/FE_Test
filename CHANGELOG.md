@@ -1,3 +1,10 @@
+## [1.5.1](https://github.com/rohmatstar/FE_Test/compare/v1.5.0...v1.5.1) (2025-07-28)
+
+
+### Bug Fixes
+
+* update readme and add encrypted env ([b679324](https://github.com/rohmatstar/FE_Test/commit/b67932499b57b92aca72182b65d01ca587c4ff22))
+
 # [1.5.0](https://github.com/rohmatstar/FE_Test/compare/v1.4.0...v1.5.0) (2025-07-27)
 
 

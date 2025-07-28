@@ -10,17 +10,27 @@ Follow these steps to run the app locally:
 
 ### 1. Install dependencies
 
-``bash npm install`
+```bash
+   npm install
+```
 
 ### 2. Decrypt the environment configuration file:
 
-`bash npx dechipera --dec`
+```bash
+   npx dechipera --dec
+```
 
-> The password is: z1SJ6ZfQ8MJFamjGW9Ju7hRSOwICtlJRztFOVH7ktYyzKS7hBE7Z2JGN8TkxykY6sHkzuz8BPH7opkXiMQ5aIEDEJCOiM47mS0mzgxSN7tyczUh3ABcGd53k1zEg
+> **The password is:**
+> z1SJ6ZfQ8MJFamjGW9Ju7hRSOwICtlJRztFOVH7ktYyzKS7hBE7Z2JGN8TkxykY6sHkzuz8BPH7opkXiMQ5aIEDEJCOiM47mS0mzgxSN7tyczUh3ABcGd53k1zEg
 
 ### 3. Start the frontend development server:
 
-`bash npm start`
+```bash
+   npm start
+```
 
-> Note: Make sure the backend is running by executing:
-> ` bash docker-compose up -d`
+> **Note:** Make sure the backend is running by executing:
+
+```bash
+   docker-compose up -d
+```
